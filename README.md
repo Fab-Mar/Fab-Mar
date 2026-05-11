@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Fabio Andres
 
-<!--
-**Fab-Mar/Fab-Mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Systems Engineer
+- IT Support & Cybersecurity Enthusiast
+- Based in Melbourne, Australia
+- Passionate about infrastructure, security and automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- Python
+- PHP
+- MySQL
+- Linux
+- Windows Server
+- Active Directory
+- Networking
+- Git & GitHub
+- Cybersecurity
+- HTML/CSS
+- JavaScript
+
+---
+
+## Current Projects
+
+- IT Help Desk Ticketing System
+- Cybersecurity Home Lab
+- Active Directory Lab
+- Network Monitoring Dashboard
+
+---
+
+## Currently Learning
+
+- Cloud Computing
+- Docker
+- SIEM & SOC tools
+- Advanced Cybersecurity
+- React & Node.js
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- GitHub
